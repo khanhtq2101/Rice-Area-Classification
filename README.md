@@ -1,5 +1,5 @@
 # Rice-Area-Classification
-One-dimensional Convolutional Neural Network and Recurrent Neural Network to classify extracted Sentinel-1 pixel-based time-series. 
+One-dimensional Convolutional Neural Network and Recurrent Neural Network to classify extracted Sentinel-1 pixel-based time-series.  
 **1. Samples of time-seires** 
    ![](images/samples.png)  
 **2. One-dimensional Convolutional Neural Network**
