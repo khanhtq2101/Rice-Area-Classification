@@ -2,16 +2,16 @@
 One-dimensional Convolutional Neural Network and Recurrent Neural Network to classify extracted Sentinel-1 pixel-based time-series.  
 **1. Samples of time-seires** 
    ![](images/samples.png)  
-**2. One-dimensional Convolutional Neural Network**
-
+**2. One-dimensional Convolutional Neural Network**  
+Run the [notebook](CNN%201D.ipynb) to train 1D CNN Model.  
 |  | Weighted precision |  Weighted Recall | Weighted F1-score | Accuracy |
 | :------: | :--------: | :--------: | :--------: | :--------: |
 | VV | 0.86 | 0.857 | 0.854 | 0.857 |
 | VH | 0.848 | 0.842 | 0.838 | 0.842 |
 | Both | **0.848** | **0.842** | **0.838** | **0.842** |
 
-**3. Recurrent Neural Network**
-
+**3. Recurrent Neural Network**  
+Run the [notebook](RNN.ipynb) to train RNN Model. 
 |  | Weighted precision |  Weighted Recall | Weighted F1-score | Accuracy |
 | :------: | :--------: | :--------: | :--------: | :--------: |
 | 1-layer |0.859 | 0.856 | 0.853 | 0.856 |
